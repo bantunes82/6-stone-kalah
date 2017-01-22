@@ -1,0 +1,14 @@
+1-)Requirements to run the project
+-Java 1.8
+-Maven 3
+-Mongodb 3.2 started at the default port in the same machine
+
+2-)To run the program on Windows:
+mvnw.cmd spring-boot:run
+
+3-)To run the program on Linux:
+mvnw spring-boot:run
+
+
+
+
